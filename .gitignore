@@ -12,7 +12,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Ignore data files (optional, if datasets are too big)
-*.csv
+
 *.xlsx
 *.json
 
